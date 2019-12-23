@@ -1,4 +1,4 @@
-package Practice02;
+package Practice2;
 
 public class PromotionExample {
 
